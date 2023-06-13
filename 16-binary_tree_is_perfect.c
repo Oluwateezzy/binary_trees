@@ -38,7 +38,7 @@ int is_perfect_recursive(const binary_tree_t *tree, size_t depth, size_t level)
 }
 
 /**
- * binary_tree_is_perfect - binary tree perfect
+ * binary_tree_is_perfect - binary tree perfect ideal
  * @tree: pointer
  * Return: int
  */
